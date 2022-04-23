@@ -19,3 +19,6 @@ Using AWS, PostgreSQL, Pandas, and PySpark an analysis of video game reviews fro
 
 **Non-Vine**
 ![non vine](https://github.com/dkleitsch/Amazon_Vine_Analysis/blob/main/Amazon%20Analysis/non%20vine.png)
+
+## Summary
+There does appear to be some positivity bias within the Vine program.  Over half of the Vine reviews were positive (51.06%) compared to 38.70% of positive non-vine reviews.  Another analysis that could be performed to help support this conclusion would be to find the percentage of one-star reviews for each category.  This would help us see if the Vine reviews were also less negative than the non-vine reviews.
