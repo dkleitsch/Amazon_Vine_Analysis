@@ -1,6 +1,6 @@
 # Amazon Vine Analysis
 ## Overview
-Using AWS, PostgreSQL, Pandas, and PySpark an analysis of video game reviews from Amazon was conducted.  The analysis was completed to determine if a possitivity bias exists within the Amazon Vine review program, where reviewers are paid for their reviews.
+Using AWS, PostgreSQL, Pandas, and PySpark an analysis of video game reviews from Amazon was conducted.  The analysis was completed to determine if a positivity bias exists within the Amazon Vine review program, where reviewers are paid for their reviews.
 ## Results
 - **Total Number of Reviews per Category**
 -   Vine: 94
